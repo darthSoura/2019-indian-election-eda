@@ -13,18 +13,17 @@ The dataset contains information of all the candidates who contested the electio
 
 The Libraries used in the Project are:
 
-Matplotlib (for visualization of data),
+* Matplotlib (for visualization of data),
 
-Seaborn (used alongside Matplotlib for visualization),
+* Seaborn (used alongside Matplotlib for visualization),
 
-Numpy (used for operations on numeric data),
+* Numpy (used for operations on numeric data),
 
-Pandas (used for utilising DataFrames and organising the data),
+* Pandas (used for utilising DataFrames and organising the data),
 
-Jovian (used for downloading dataset and to run, save and upload the Notebook).
+* Jovian (used for downloading dataset and to run, save and upload the Notebook).
 
 Apart from the above mentioned libraries, we use the opendatasets package to directly download the files from Kaggle and parse the data.
-
 Link to the package - https://github.com/JovianML/opendatasets
 
 To view the Jupyter Notebook containing the EDA, click on the .ipynb file to open it. Scroll down to see the analysis. Some contents might not be visible in Dark Theme, so I recommend viewing the notebook in Light Theme.
