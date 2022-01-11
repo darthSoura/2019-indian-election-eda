@@ -28,6 +28,8 @@ Link to the package - https://github.com/JovianML/opendatasets
 
 To view the Jupyter Notebook containing the EDA, click on the .ipynb file to open it. Scroll down to see the analysis. Some contents might not be visible in Dark Theme, so I recommend viewing the notebook in Light Theme.
 
+The Notebook can also be viewed in Google Colab and Binder or can be downloaded and viewed locally.
+
 Link to a Blog Post will be added soon.
 
 Hope you like my work !!!
